@@ -1,0 +1,10 @@
+tipo:Extra:23000:10.0
+tipo:Corriente:16000:40.0
+tipo:Rendida:4000:60.0
+tipo:Diesel:9000:30.0
+surtidor:Pedro:Extra:0.0:Corriente:0.0:Rendida:0.0:Diesel:0.0
+surtidor:Pedro:Extra:0.0:Corriente:0.0:Rendida:0.0:Diesel:0.0
+surtidor:Pedro:Extra:0.0:Corriente:0.0:Rendida:0.0:Diesel:0.0
+surtidor:Juan:Extra:0.0:Corriente:0.0:Rendida:0.0:Diesel:0.0
+empleado:Pedro:0
+empleado:Juan:0
